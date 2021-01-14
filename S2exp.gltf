@@ -7208,7 +7208,7 @@
    "primitives" : [
     {
      "mode" : 4,
-     "material" : 3,
+     "material" : 15,
      "indices" : 54,
      "attributes" : {
       "POSITION" : 201,
@@ -7218,7 +7218,7 @@
    "primitives" : [
     {
      "mode" : 4,
-     "material" : 15,
+     "material" : 16,
      "indices" : 55,
      "attributes" : {
       "POSITION" : 203,
@@ -7228,7 +7228,7 @@
    "primitives" : [
     {
      "mode" : 4,
-     "material" : 16,
+     "material" : 17,
      "indices" : 56,
      "attributes" : {
       "POSITION" : 205,
@@ -7238,7 +7238,7 @@
    "primitives" : [
     {
      "mode" : 4,
-     "material" : 17,
+     "material" : 18,
      "indices" : 57,
      "attributes" : {
       "POSITION" : 207,
@@ -7278,7 +7278,7 @@
    "primitives" : [
     {
      "mode" : 4,
-     "material" : 18,
+     "material" : 19,
      "indices" : 61,
      "attributes" : {
       "POSITION" : 215,
@@ -7498,7 +7498,7 @@
    "primitives" : [
     {
      "mode" : 4,
-     "material" : 19,
+     "material" : 20,
      "indices" : 83,
      "attributes" : {
       "POSITION" : 259,
@@ -7508,7 +7508,7 @@
    "primitives" : [
     {
      "mode" : 4,
-     "material" : 20,
+     "material" : 21,
      "indices" : 84,
      "attributes" : {
       "POSITION" : 261,
@@ -7528,7 +7528,7 @@
    "primitives" : [
     {
      "mode" : 4,
-     "material" : 21,
+     "material" : 22,
      "indices" : 86,
      "attributes" : {
       "POSITION" : 265,
@@ -7548,7 +7548,7 @@
    "primitives" : [
     {
      "mode" : 4,
-     "material" : 22,
+     "material" : 23,
      "indices" : 88,
      "attributes" : {
       "POSITION" : 269,
@@ -7558,7 +7558,7 @@
    "primitives" : [
     {
      "mode" : 4,
-     "material" : 23,
+     "material" : 24,
      "indices" : 89,
      "attributes" : {
       "POSITION" : 271,
@@ -7568,7 +7568,7 @@
    "primitives" : [
     {
      "mode" : 4,
-     "material" : 23,
+     "material" : 24,
      "indices" : 90,
      "attributes" : {
       "POSITION" : 273,
@@ -7578,7 +7578,7 @@
    "primitives" : [
     {
      "mode" : 4,
-     "material" : 23,
+     "material" : 24,
      "indices" : 91,
      "attributes" : {
       "POSITION" : 275,
@@ -7588,7 +7588,7 @@
    "primitives" : [
     {
      "mode" : 4,
-     "material" : 24,
+     "material" : 25,
      "indices" : 92,
      "attributes" : {
       "POSITION" : 277,
@@ -7703,6 +7703,12 @@
     "baseColorTexture" : {
      "index" : 9,
      "texCoord" : 0},
+    "metallicFactor" : 0,
+    "roughnessFactor" : 0}},
+  {
+   "name" : "TRAVELLED",
+   "pbrMetallicRoughness" : {
+    "baseColorFactor" : [1.000000, 0.000000, 0.000000, 1.000000],
     "metallicFactor" : 0,
     "roughnessFactor" : 0}},
   {
